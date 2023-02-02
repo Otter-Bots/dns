@@ -1,2 +1,2 @@
 # dns
-our open sourced DNS records
+Our open sourced DNS records.
