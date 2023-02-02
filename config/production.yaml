@@ -15,4 +15,9 @@ providers:
     token: env/HETZNER_TOKEN
 
 zones:
+  otterbots.dev.:
+    sources:
+      - config
+    targets:
+      - hetzner
   
