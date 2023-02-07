@@ -3,10 +3,24 @@
   type: TXT
   values:
     - 17e382a5ed
-"":
+"zoho-mail._domainkey":
   type: TXT
-  values: 
-    - zoho-verification=zb04061976.zmverify.zoho.eu
+  values:
+    - v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmbwOqhFWpCIsr05+JcK1C9s3lfw4o52sTvVontdjYmk5tNl5zTl49BvVgbSn6+s9haGAfBaP6sUukr90UVZPxpgSMHUClLMaAwhganIVlLdzNcbbaYACGU/Y/5o2ZTcJWMa5bb0QAeaQhje3lb4RMU/wZMZDpQfZtmcqxqe+E4QIDAQAB
+"":
+  - type: TXT
+    values: 
+      - zoho-verification=zb04061976.zmverify.zoho.eu
+      - v=spf1 include:zoho.eu ~all
+  - ttl: 1
+    type: MX
+    values:
+      - exchange: mx.zoho.eu.
+        preference: 10
+      - exchange: mx2.zoho.eu.
+        preference: 20
+      - exchange: mx3.zoho.eu.
+        preference: 50
 "servers":
   type: NS
   values:
