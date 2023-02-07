@@ -11,4 +11,4 @@
     - ns3.digitalocean.com.
 "*":
   type: CNAME
-  value: redirect-proxy.servers.otterbots.dev
+  value: redirect-proxy.servers.otterbots.dev.
