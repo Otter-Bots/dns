@@ -9,3 +9,6 @@
     - ns1.digitalocean.com.
     - ns2.digitalocean.com.
     - ns3.digitalocean.com.
+"*":
+  type: CNAME
+  value: faas-lon1-917a94a7.doserverless.co/api/v1/web/fn-c9d7a3b2-144f-40f1-9c3b-229724928e06/proxy/web-redirect-proxy
