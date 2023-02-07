@@ -6,7 +6,7 @@
 "zoho-mail._domainkey":
   type: TXT
   values:
-    - v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmbwOqhFWpCIsr05+JcK1C9s3lfw4o52sTvVontdjYmk5tNl5zTl49BvVgbSn6+s9haGAfBaP6sUukr90UVZPxpgSMHUClLMaAwhganIVlLdzNcbbaYACGU/Y/5o2ZTcJWMa5bb0QAeaQhje3lb4RMU/wZMZDpQfZtmcqxqe+E4QIDAQAB
+    - "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmbwOqhFWpCIsr05+JcK1C9s3lfw4o52sTvVontdjYmk5tNl5zTl49BvVgbSn6+s9haGAfBaP6sUukr90UVZPxpgSMHUClLMaAwhganIVlLdzNcbbaYACGU/Y/5o2ZTcJWMa5bb0QAeaQhje3lb4RMU/wZMZDpQfZtmcqxqe+E4QIDAQAB"
 "":
   - type: TXT
     values: 
