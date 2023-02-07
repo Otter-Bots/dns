@@ -3,6 +3,10 @@
   type: TXT
   values:
     - 17e382a5ed
+"":
+  type: TXT
+  values: 
+    - zoho-verification=zb04061976.zmverify.zoho.eu
 "servers":
   type: NS
   values:
