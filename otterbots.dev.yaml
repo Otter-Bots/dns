@@ -23,6 +23,9 @@
         preference: 50
   - type: ALIAS
     value: apex-loadbalancer.netlify.com.
+"www":
+  type: CNAME
+  value: harmonious-figolla-f494c2.netlify.app.
 "servers":
   type: NS
   values:
