@@ -21,8 +21,8 @@
         preference: 20
       - exchange: mx3.zoho.eu.
         preference: 50
-  - type: ALIAS
-    value: apex-loadbalancer.netlify.com.
+  - type: A
+    value: 75.2.60.5
 "www":
   type: CNAME
   value: harmonious-figolla-f494c2.netlify.app.
