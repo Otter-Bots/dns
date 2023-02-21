@@ -21,6 +21,8 @@
         preference: 20
       - exchange: mx3.zoho.eu.
         preference: 50
+  - type: ALIAS
+    value: apex-loadbalancer.netlify.com.
 "servers":
   type: NS
   values:
@@ -30,6 +32,13 @@
 "stats":
   type: CNAME
   value: cosmic-blancmange-860bda.netlify.app.
+"sites":
+  type: NS
+  values:
+    - dns1.p01.nsone.net
+    - dns2.p01.nsone.net
+    - dns3.p01.nsone.net
+    - dns4.p01.nsone.net
 "*":
   type: CNAME
   value: redirect-proxy.servers.otterbots.dev.
