@@ -42,6 +42,9 @@
     - dns2.p01.nsone.net.
     - dns3.p01.nsone.net.
     - dns4.p01.nsone.net.
+"assets":
+  type: CNAME
+  value: otter-bots.github.io
 "*":
   type: CNAME
   value: redirect-proxy.servers.otterbots.dev.
