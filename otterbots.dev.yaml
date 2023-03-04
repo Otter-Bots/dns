@@ -35,6 +35,9 @@
 "stats":
   type: CNAME
   value: cosmic-blancmange-860bda.netlify.app.
+"status":
+  type: CNAME
+  value: nimble-cascaron-12ea72.netlify.app.
 "sites":
   type: NS
   values:
