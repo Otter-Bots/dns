@@ -48,6 +48,9 @@
 "assets":
   type: CNAME
   value: otter-bots.github.io.
+"umami":
+  type: CNAME
+  value: is2fsl9n.up.railway.app.
 "*":
   type: CNAME
   value: redirect-proxy.servers.otterbots.dev.
