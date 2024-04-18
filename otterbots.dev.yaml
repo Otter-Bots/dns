@@ -54,3 +54,6 @@
 "*":
   type: CNAME
   value: redirect-proxy.servers.otterbots.dev.
+"*.dev":
+  type: A
+  value: 178.62.28.98
