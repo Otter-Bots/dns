@@ -1,7 +1,7 @@
 ---
-"_acme_challenge.dev.otterbots.dev":
+"_acme-challenge.dev.otterbots.dev":
   type: TXT
-  value: TVz75UyU1scs7GAmJDo3svSICp_ZuaAGZ-q4-IIZssA
+  value: zXY_-i41fwU_m-854AyoN8YKVr33Qo1iNL9qw0sTWn4
 "_github-challenge-Otter-Bots-org":
   type: TXT
   values:
